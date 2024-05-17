@@ -200,7 +200,7 @@ body {
 #techTree img,
 #delModal .modal-body img {
 	position: absolute;
-	bottom: 100px;
+	bottom: 0px;
 	left: 0px;
 }
 
